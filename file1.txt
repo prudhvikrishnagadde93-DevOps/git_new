@@ -1,1 +1,4 @@
 iim writing my first code
+
+sec
+thirdgit 
